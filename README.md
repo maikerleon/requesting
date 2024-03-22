@@ -14,7 +14,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/maikerleon/requesting)
 ![GitHub forks](https://img.shields.io/github/forks/maikerleon/requesting)
 ![GitHub PRs](https://img.shields.io/github/issues-pr/maikerleon/requesting)
-![React Badge](https://img.shields.io/badge/React-ff3e00?logo=react&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-00dcff?logo=react&logoColor=fff&style=flat)
 
 </div>
 
